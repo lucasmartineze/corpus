@@ -1,0 +1,12 @@
+{
+  "descripcion": "colores",
+  "colores":
+    [
+      "rojo",
+      "azul",
+      "amarillo",
+      "naranjo",
+      "celeste",
+      "verde"
+    ]
+}
